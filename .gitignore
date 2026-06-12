@@ -1,0 +1,35 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp
+.pnp.js
+
+# Frontend production/build
+ipl-ai-platform/frontend/build/
+ipl-ai-platform/frontend/coverage/
+
+# Backend env & credentials
+ipl-ai-platform/backend/.env
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Python caches and virtualenvs
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+
+# Large datasets (>100MB limit on GitHub)
+ipl-ai-platform/backend/data/matches.csv
+
+# OS metadata
+.DS_Store
+Thumbs.db
