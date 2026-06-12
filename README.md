@@ -154,5 +154,19 @@ IPL-Predictor/
 
 ---
 
+## ⚠️ Important Notes
+❌ Large dataset files are excluded from GitHub  
+🔐 Never upload .env file.  
+📡 Requires valid API keys for live data  
+
+
+---
+
+## 🧑‍💻 Author
+
+Ankit Singh Yadav
+
+---
+
 ## 🔒 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
